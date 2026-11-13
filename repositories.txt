@@ -1,3 +1,5 @@
+https://github.com/mustafabagr/STPM32_UART
+https://github.com/SINCHULHO/CFMEGA
 https://github.com/hex705/UltrasonicFilter
 https://github.com/mumanchu/C4001mmWave
 https://github.com/Hyperion-Robotics/TCAN4x5x
@@ -2303,6 +2305,7 @@ https://github.com/bonezegei/Bonezegei_SHT31
 https://github.com/bonezegei/Bonezegei_PN532
 https://github.com/bonezegei/Bonezegei_AHT10
 https://github.com/bonezegei/Bonezegei_BH1750
+https://github.com/bonezegei/Bonezegei_AHT20
 https://github.com/boodskap/BoodskapMessage
 https://github.com/BoodskapPlatform/BoodskapTransceiver
 https://github.com/boothinator/AnalogReadAsync
@@ -4977,6 +4980,8 @@ https://github.com/marcmerlin/FastLED_TFTWrapper_GFX
 https://github.com/marcmerlin/Framebuffer_GFX
 https://github.com/marcmerlin/SmartMatrix_GFX
 https://github.com/marcmerlin/FastLED_ESP32-HUB75-MatrixPanel_FrameBuffer_GFX
+https://github.com/marcmerlin/FastLED_Protomatter_RGBPanel_FrameBuffer_GFX
+https://github.com/marcmerlin/FastLED_ArduinoGFX_TFT
 https://github.com/marcobrianza/ClickButton
 https://github.com/marcocarnut/DigiCDCFast
 https://github.com/marcocarnut/DigiCDCMulti
@@ -6318,6 +6323,7 @@ https://github.com/RobTillaart/ADG2128_RT
 https://github.com/RobTillaart/ADG2188
 https://github.com/RobTillaart/Adler
 https://github.com/RobTillaart/ADS1X15
+https://github.com/RobTillaart/ADS7142
 https://github.com/RobTillaart/ADT7470
 https://github.com/RobTillaart/AGS02MA
 https://github.com/RobTillaart/AGS2616
@@ -7428,6 +7434,7 @@ https://github.com/sparkfun/SparkFun_INA2XX_Arduino_Library
 https://github.com/sparkfun/SparkFun_ADE7953_Arduino_Library
 https://github.com/sparkfun/SparkFun_SFA40_Arduino_Library
 https://github.com/sparkfun/SparkFun_STCC4_Arduino_Library
+https://github.com/sparkfun/SparkFun_GM-X02B_Arduino_Library
 https://github.com/SpellFoundry/PCF8523
 https://github.com/SpellFoundry/SleepyPi2
 https://github.com/sphero-inc/sphero-sdk-arduino-cpp-library-manager
@@ -9248,6 +9255,7 @@ https://github.com/UNIT-Electronics-MX/unit_devlab_photointerrupter_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_ir_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_lm35_library
 https://github.com/UNIT-Electronics-MX/unit_devlab_trafficlight_library
+https://github.com/UNIT-Electronics-MX/unit_devlab_analog_interface_library
 https://github.com/jmwanderer/tlv.arduino
 https://github.com/PaulNTU/MoonMin-Scanner-Arduino-Library
 https://gitlab.com/Vishal1695/mvswifi_esp32
@@ -10443,3 +10451,15 @@ https://github.com/rosduino/rosduino_arduino
 https://github.com/NOXUSTIC/BOTGyro
 https://github.com/ARabadann/SdUsbDrive
 https://github.com/zumcitomc/motESP32-english
+https://github.com/copida/SmtpMini
+https://github.com/AARUTO347/AARUARDUINO
+https://github.com/rahmatpurnomo/EnigmaIoT
+https://github.com/sunfounder/arduino-esp-new-jpeg
+https://github.com/francescopace/espectre-arduino
+https://github.com/fikretpalas/SafCNC
+https://github.com/SanjayKamu/InnoLite-ESP-NOW
+https://github.com/ETI-PATAGONIA-AR/Libreria-BusUnHilo-Arduino
+
+https://github.com/AARUTO347/AARUNO
+https://github.com/usmanargit/AsairAgh3485
+https://github.com/saifulAdli79/arduino-wall-clock-v2
